@@ -45,3 +45,6 @@
 *.bmp
 *.ico
 *.webp
+
+# 書類
+*.pdf
