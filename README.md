@@ -1,0 +1,2 @@
+# DirectX12_Experiment
+DirectX12の魔導書のお勉強用プロジェクト
